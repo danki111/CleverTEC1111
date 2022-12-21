@@ -1,0 +1,38 @@
+              CASH RECEIPT
+          Supermarket BestShop
+CASHIER: №3    Time: 2022/12/21 19:25:45
+----------------------------------------
+ Product       Price     Amount   Total
+ Cheese        $1,98     2        $3,96   
+ Bread         $0,45     3        $1,35   
+ Water         $1,08     3        $3,24   
+ Coca-Cola     $1,35     1        $1,35   
+ Caviar        $31,77    1        $31,77  
+ Honey         $7,20     5        $36,00  
+ Jam           $4,41     4        $17,64  
+----------------------------------------
+ Card's discount:                 0,00%
+ Cost:                            $105,90
+ DISCOUNT:                        $10,59
+
+ TOTAL cost:                      $95,31
+
+              CASH RECEIPT
+          Supermarket BestShop
+CASHIER: №3    Time: 2022/12/21 19:25:45
+----------------------------------------
+ Product       Price     Amount   Total
+ Cheese        $2,20     2        $4,40   
+ Bread         $0,50     4        $2,00   
+ Soap          $1,60     6        $9,60   
+ Coca-Cola     $1,50     1        $1,50   
+ M&M           $1,70     5        $8,50   
+ Beer          $1,62     2        $3,24   
+ Jam           $3,97     5        $19,85  
+----------------------------------------
+ Card's discount:                 10,00%
+ Cost:                            $54,50
+ DISCOUNT:                        $8,01
+
+ TOTAL cost:                      $46,49
+
